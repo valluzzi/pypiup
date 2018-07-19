@@ -1,6 +1,6 @@
 set pkgname=%1
 set username=valluzzi
-set pwd=Adamondra01
+set pwd=...
 
 if not exist %pkgname% (
 
